@@ -6,3 +6,7 @@ The implemented algorithms are the following:
 - Brute force / no optimization
 - Static grid
 - Quad tree
+
+Dependencies:
+- pygame: Used to visualize and test algorithms
+- numpy, scipy and matplotlib: Used to measure and visualize algorithm statistics
